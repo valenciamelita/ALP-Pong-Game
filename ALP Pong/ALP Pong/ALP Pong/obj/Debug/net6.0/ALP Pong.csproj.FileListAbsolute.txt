@@ -1,0 +1,29 @@
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.exe
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.deps.json
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.runtimeconfig.json
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.dll
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.pdb
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.csproj.AssemblyReference.cache
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.AssemblyInfoInputs.cache
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.AssemblyInfo.cs
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.csproj.CoreCompileInputs.cache
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.dll
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\refint\ALP Pong.dll
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.pdb
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.genruntimeconfig.cache
+C:\Users\felic\source\repos\ALP Pong\ALP Pong\obj\Debug\net6.0\ref\ALP Pong.dll
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.exe
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.deps.json
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.runtimeconfig.json
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.dll
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\bin\Debug\net6.0\ALP Pong.pdb
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.AssemblyInfoInputs.cache
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.AssemblyInfo.cs
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.dll
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\refint\ALP Pong.dll
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.pdb
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ALP Pong.genruntimeconfig.cache
+C:\Kuliah\Semester 1\Alpro visual studio\ALP Pong\ALP Pong\ALP Pong\obj\Debug\net6.0\ref\ALP Pong.dll
